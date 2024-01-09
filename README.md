@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Programmer
 -----------------
 
-I love doing Frontend tasks.
+I love doing Frontend tasks and enjoying the logic of doing the Backend tasks.
 
 *   🌍  I'm based in Philippines
 *   🖥️  See my portfolio at [My Portfolio](http://ruelalmonia.netlify.app/)
