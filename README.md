@@ -12,3 +12,9 @@ I love doing Frontend tasks and enjoying the logic of doing the Backend tasks.
 *   🧠  I'm learning CSS especially Responsive Web Design and Flexbox as well as the fundamentals of JavaScript, and next is fundamentals React JS
 *   🤝  I'm open to collaborating on Frontend Projects
 *   ⚡  Still learning, Keep growing!
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql" /><br>
+</div>
