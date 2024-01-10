@@ -6,10 +6,10 @@ Junior Programmer
 
 I love doing Frontend tasks and enjoying the logic of doing the Backend tasks.
 
-*   🌍  I'm based in Philippines
+*   🌍  I'm based in the Philippines
 *   🖥️  See my portfolio at [My Portfolio](http://ruelalmonia.netlify.app/)
 *   ✉️  You can contact me at [almonia.ruel.bscs2019@gmail.com](mailto:almonia.ruel.bscs2019@gmail.com)
-*   🧠  I'm learning CSS especially Responsive Web Design and Flexbox as well as the fundamentals of JavaScript, and next is fundamentals React JS
+*   🧠  I'm Upskilling in CSS, especially Responsive Web Design and Flexbox as well as the fundamentals of JavaScript, and next is the fundamentals of React JS
 *   🤝  I'm open to collaborating on Frontend Projects
 *   ⚡  Still learning, Keep growing!
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
