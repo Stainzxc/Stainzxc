@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruel Almonia
 ====================================================================================================================================
 
-Junior Programmer
+Junior Full Stack Developer
 -----------------
 
 I love doing Frontend tasks and enjoying the logic of doing the Backend tasks.
@@ -9,8 +9,8 @@ I love doing Frontend tasks and enjoying the logic of doing the Backend tasks.
 *   🌍  I'm based in the Philippines
 *   🖥️  See my portfolio at [My Portfolio](http://ruelalmonia.netlify.app/)
 *   ✉️  You can contact me at [almonia.ruel.dev@gmail.com](mailto:almonia.ruel.dev@gmail.com)
-*   🧠  I'm Upskilling in CSS, especially Responsive Web Design and Flexbox as well as the fundamentals of JavaScript, and next is the fundamentals of React JS
-*   🤝  I'm open to collaborating on Frontend Projects
+*   🧠  I'm Upskilling in React, Laravel and MySQL.
+*   🤝  I'm open for collaborations.
 *   ⚡  Still learning, Keep growing!
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
